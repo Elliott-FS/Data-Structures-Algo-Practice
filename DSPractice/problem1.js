@@ -1,5 +1,9 @@
 //Create a function that takes in 2 numbers and returns their sum.
 
+// So I want to create a function that takes 2 numbers and returns what the total of them added together is? Yes.
+// What are the inputs that go into the problem, it takes in to numbers. Integers? Floats? Strings?
+// What should the solution output? The solution should out put an integer that is the total of num1 + num2.
+// if the inputs are incorrect it should ask for an integer.
 
 
 
