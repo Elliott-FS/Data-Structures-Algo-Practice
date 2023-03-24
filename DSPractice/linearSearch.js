@@ -10,11 +10,10 @@
 
 function linearSearch( arr, val){
     for(let i = 0; i < arr.length; i++){
-        if(arr[i] === val){
-            return arr.indexOf(i)
-        };
-        if(arr[(arr.length - 1)] != val){
-            return -1
-        }
+       if(arr[i] === val){return i}
     }
+    return -1
 }
+ 
+
+// Works
